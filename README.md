@@ -1,2 +1,2 @@
-# cyberSpace
-This is an individual syberSpace offered to  every user.
+# cyberspace
+This is an individual syberspace offered to  every user.
