@@ -1,0 +1,17 @@
+----------10.8----------
+在github上创建syberspace仓库，在本地clone，仓库内存创建syberspace项目。
+$ npm -v
+   6.14.11
+$ node
+   v14.16.0.
+
+----------10.9----------
+用cmd 
+vue create name
+用git bush的不可以
+导入
+    "less": "^2.7.3",
+    "less-loader": "^4.1.0"
+在devDependencies （只依赖于开发环境）
+npm install 可自动下载缺失的modules
+目前项目有：vue vuex router less
