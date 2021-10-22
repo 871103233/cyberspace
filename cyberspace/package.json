@@ -28,7 +28,7 @@
     "prettier": "^2.2.1",
     "less": "^2.7.3",
     "less-loader": "^4.1.0",
-    "ant-design-vue": "^2.0.0-rc.1"
+    "ant-design-vue": "^2.2.8-rc.1"
   },
   "eslintConfig": {
     "root": true,

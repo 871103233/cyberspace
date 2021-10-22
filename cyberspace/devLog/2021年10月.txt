@@ -15,5 +15,6 @@ vue create name
 在devDependencies （只依赖于开发环境）
 npm install 可自动下载缺失的modules
 目前项目有：vue vuex router less
+
 ----------10.12----------
 "ant-design-vue": "^2.0.0-rc.1"             antd版本号要用xxrc.1的，会兼容vue3，而不是vue-cli3
